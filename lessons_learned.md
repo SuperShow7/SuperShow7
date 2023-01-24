@@ -1,2 +1,2 @@
 - I have learned how to open github, create brances, create repositories, and how to create markdown files.
-- Link to my [profile page](https://github.com/SuperShow7)
+- Link to my [profile page.](https://github.com/SuperShow7)
